@@ -12,6 +12,12 @@ Navigable index of the OmniRoute documentation set. Topics are grouped by intent
 
 ---
 
+## 🎓 Curso Práctico en Español / Course in Spanish
+
+- [curso/README.md](curso/README.md) — **Curso Completo de OmniRoute: De Cero a Experto** (Curso práctico paso a paso dividido en 7 módulos en español para principiantes y desarrolladores).
+
+---
+
 ## For Non-Tech Users
 
 Simple guides for using OmniRoute — no technical background needed.
